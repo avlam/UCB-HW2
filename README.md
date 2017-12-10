@@ -1,4 +1,4 @@
-# UCB-HW1
+# UCB-HW2
 UC Berkeley Extension Data Science Program
 Homework Exercise 2
 Topic: VBA Scripting
